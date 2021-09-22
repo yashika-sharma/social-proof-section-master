@@ -6,9 +6,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 - [Screenshot](#screenshot)
 - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+- [Built with](#built-with)
 
 ### Screenshot
 
@@ -18,8 +16,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
 
 ### Built with
 
